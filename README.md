@@ -20,7 +20,6 @@ My passion and the story of being a cybercrime's victim has led me to be interes
 | Case Management with TheHive                  | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
