@@ -14,18 +14,12 @@ My passion and the story of being a cybercrime's victim has led me to be interes
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Security incident report                      | SOC Automation Lab|
+| Controls and compliance checklist             | SOC Automation Lab|
 
 ## Tools
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    
-</div>
+
 
 ### Endpoint
 <div>
@@ -41,9 +35,10 @@ My passion and the story of being a cybercrime's victim has led me to be interes
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Certified_Splunk-00A3E0?&style=for-the-badge&logo=Splunk&logoColor=white" /> (In Progress)
+<img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Security incident report
+- Controls and compliance checklist
