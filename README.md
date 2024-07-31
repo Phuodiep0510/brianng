@@ -14,8 +14,8 @@ My passion and the story of being a cybercrime's victim has led me to be interes
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security incident report                      | SOC Automation Lab|
-| Controls and compliance checklist             | SOC Automation Lab|
+| Security incident report                      | GitHub Projects|
+| Controls and compliance checklist             | GitHub Projects|
 
 ## Tools
 
